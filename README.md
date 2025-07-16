@@ -1,4 +1,4 @@
-# C-Fundamentals
+# C# Fundamentals
 
 C# Fundamentals Demo
 Author: MacDonald Industries
